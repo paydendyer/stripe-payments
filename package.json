@@ -1,0 +1,23 @@
+{
+  "name": "stripe-payments",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "netlify dev",
+    "netlify:open": "netlify open",
+    "deploy": "git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paydendyer/stripe-payments.git"
+  },
+  "author": "Payden Dyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paydendyer/stripe-payments/issues"
+  },
+  "homepage": "https://github.com/paydendyer/stripe-payments#readme",
+  "dependencies": {
+    "stripe": "^8.184.0"
+  }
+}
